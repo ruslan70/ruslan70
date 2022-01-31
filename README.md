@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ruslan
 - 👀 I’m interested in Web-Development
 - 🌱 I’m currently learning visual studio code, wordpress and github
-- 💞️ I’m looking to collaborate on I am looking for a cooperation in web development
+- 💞️ I’m looking for a cooperation in web development
 - 📫 How to reach me ...
 
 <!---
