@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ruslan
 - 👀 I’m interested in Web-Development
-- 🌱 I’m currently learning github
+- 🌱 I’m currently learning wordpress,github
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
